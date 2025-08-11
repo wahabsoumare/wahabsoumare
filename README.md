@@ -1,6 +1,6 @@
 ## 👋 Salut, moi c'est Abdoul Wahab Soumare
 
-🧠 Bio-informaticien, Data scientist et Devolppeur Full stack<br>
+🧠 Bio-informaticien, Data scientist et Developpeur Full stack<br>
 🔬 Passionné par la recherche en bio-informatique, le développement d’outils bioinformatiques, l’analyse de données biologiques et l'inteligence artificielle  
 ---
 
