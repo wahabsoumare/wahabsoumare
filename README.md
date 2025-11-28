@@ -1,85 +1,82 @@
+<!-- Typing SVG -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=1E90FF&center=true&vCenter=true&width=600&lines=Salut%2C+je+suis+Abdoul+Wahab+Soumare;Bio-informaticien+%7C+Data+Scientist+%7C+Dev+Python;Passionné+par+IA%2C+Bioinfo+%26+Big+Data" alt="Typing SVG" />
+</p>
+
+---
+
 # 👋 Salut, moi c’est **Abdoul Wahab Soumare**
 
 🧬 **Bio-informaticien**, 🧠 **Data Scientist** & 🐍 **Développeur Python**  
-Passionné par la **recherche en bio-informatique**, le développement d’**outils bioinformatiques**, l’**analyse de données biologiques**, et l’**intelligence artificielle** appliquée au vivant.
+Je combine **maths**, **biologie** et **code** pour comprendre le vivant — et créer des outils intelligents pour l’analyser.
 
 ---
 
 ## 🌐 Me retrouver en ligne
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wahab_soumare)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/soumarewahab)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/wahab_soumare)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:soumarewahab@gmail.com)
+<p align="center">
+  <a href="https://instagram.com/wahab_soumare"><img src="https://skillicons.dev/icons?i=instagram" height="45"/></a>
+  <a href="https://linkedin.com/in/soumarewahab"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
+  <a href="https://x.com/wahab_soumare"><img src="https://skillicons.dev/icons?i=twitter" height="45"/></a>
+  <a href="mailto:soumarewahab@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45"/></a>
+</p>
 
 ---
 
 ## ⚙️ À propos de moi
 
-- 🎓 Étudiant en **Master II Bio-informatique & Biomathématiques** à l’UCAD  
-- 🧠 Je crée des outils qui combinent **algorithmes, biologie et big data**  
-- 🔍 Intérêt particulier pour le **machine learning**, **deep learning**, le **traitement de données omiques** et le **développement de pipelines bioinfo**  
-- 🚀 Actuellement en amélioration de mes compétences en **cloud**, **Docker**, **MLOps** et **optimisation d'algorithmes**  
-- 🤝 Ouvert aux collaborations, surtout sur des projets IA, bioinfo et Python
+- 🎓 Master II en **Bio-informatique & Biomathématiques** – UCAD  
+- 🧬 Développement d’outils bio-informatiques et analyse de données omiques  
+- 🤖 Machine learning, deep learning, IA appliquée au vivant  
+- 🐍 Dev Python : scripts, APIs, pipelines, projets IA  
+- 🔧 DevOps (Docker), cloud, MLOps en apprentissage  
+- 🤝 Ouvert aux collaborations IA / bioinfo / dev Python
 
 ---
 
-# 💻 Tech Stack
+# 💻 Tech Stack (animé)
 
-### 🧬 Bio-informatique & Data Science  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-
-### 🤖 Machine & Deep Learning  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-### 🌐 Développement & Web  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-
-### 🗄️ Bases de données  
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### ⚙️ Outils & DevOps  
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,r,tensorflow,pytorch,sklearn,numpy,pandas,git,github,linux,docker,mysql,mongodb,html,css,js,php,django,flask" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=wahabsoumare&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br>
-![](https://nirzak-streak-stats.vercel.app/?user=wahabsoumare&theme=shadow_blue&hide_border=false)<br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=wahabsoumare&theme=shadow_blue&hide_border=false&layout=compact)
+## 📊 GitHub Stats (animé)
 
-### 🔝 Top Contributed Repos
-![](https://github-contributor-stats.vercel.app/api?username=wahabsoumare&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wahabsoumare&theme=tokyonight&show_icons=true&hide_border=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=wahabsoumare&theme=tokyonight&hide_border=true" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahabsoumare&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+</p>
+
+### 🔝 Top Contributed Repos  
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=wahabsoumare&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+</p>
+
+---
+
+## 🧠 Animation IA / Bioinfo (optional mais stylé)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kyechan99/cooltext/main/bioinformatics.gif" width="500">
+</p>
 
 ---
 
 ### 🔢 Compteur de visites  
-[![](https://visitcount.itsvg.in/api?id=wahabsoumare&icon=0&color=1)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=wahabsoumare&icon=0&color=6" />
+</p>
 
 ---
 
 ## ⚡ Fun Fact  
-> Je combine les mathématiques, la biologie et le code pour mieux comprendre le vivant — et j’adore ça !
+> *Je suis convaincu que l’IA peut révolutionner la biologie moderne — et je veux faire partie de cette révolution.*
 
 ---
 
-⭐️ Merci d’avoir visité mon profil !  
-N’hésite pas à explorer mes projets ou à me contacter pour discuter bioinfo, IA ou développer ensemble de nouveaux outils !
+⭐ Merci pour la visite !  
+N’hésite pas à explorer mes projets ou à me contacter pour collaborer 🚀
