@@ -56,11 +56,6 @@ I combine **biology**, **math**, and **code** to understand life and build intel
 
 ---
 
-### 🔢 Profile Visitors
-<img src="https://visitcount.itsvg.in/api?id=wahabsoumare&icon=0&color=6" alt="visit count" />
-
----
-
 ## ⚡ Fun Fact
 > *I believe AI will transform modern biology — and I want to be part of that revolution.*
 
