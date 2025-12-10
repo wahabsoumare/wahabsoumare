@@ -47,7 +47,7 @@ I combine **biology**, **math**, and **code** to understand life and build intel
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=wahabsoumare&theme=tokyonight&hide_border=true" height="170" alt="GitHub streak" />
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahabsoumare&layout=compact&theme=tokyonight&hide_border=true&hide=HTML,Jupyter%20Notebook,CSS,Perl" height="170" alt="Top languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahabsoumare&layout=compact&theme=tokyonight&hide_border=true&hide=HTML,CSS,Perl" height="170" alt="Top languages" />
 
 ---
 
