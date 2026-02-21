@@ -15,7 +15,7 @@
 
 ---
 
-## 👤 About Me
+## About Me
 
 🎓 **Master's Student** in Bioinformatics & Biomathematics @ UCAD <br>
 🧬 **Bioinformatics:** Building tools to analyze omics datasets and genomic data <br>
@@ -26,7 +26,7 @@
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -36,7 +36,7 @@
 
 ---
 
-## 📈 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 <table>
@@ -53,7 +53,7 @@
 
 ---
 
-## 🌐 Let's Connect
+## Let's Connect
 
 <div align="center">
 
